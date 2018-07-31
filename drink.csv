@@ -1,0 +1,6 @@
+item_id,ice,type
+1,TRUE,soda
+4,TRUE,soda
+5,FALSE,hot_beverage
+10,FALSE,hot_beverage
+9,FALSE,hot_beverage
